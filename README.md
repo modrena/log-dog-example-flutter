@@ -13,6 +13,11 @@ Example:
 LOGDOG_API_KEY=ld-prod-XXX-XXX
 ```
 
+## Demo
+![LogDog demo](flutter-demo.gif)
+
+
+
 For support you can reach out to support@logdog.app
 
 Happy logging!
